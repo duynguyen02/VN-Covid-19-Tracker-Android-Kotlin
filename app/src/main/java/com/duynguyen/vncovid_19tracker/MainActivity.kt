@@ -104,6 +104,7 @@ class MainActivity : AppCompatActivity() {
 
         // get locations cases in obj and add all to mInternalLocationsCasesList
         val locationsCases: JSONArray = obj.getJSONArray("locations")
+        mInternalLocationsCasesList.clear()
         for (i in 0 until locationsCases.length()){
             mInternalLocationsCasesList.add(InternalLocationsCases(locationsCases[i] as JSONObject))
         }
