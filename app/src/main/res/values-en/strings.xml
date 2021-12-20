@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VN Covid-19 Tracker</string>
+    <string name="information_about_the_covid_19_pandemic_in_viet_nam">Information about the Covid-19 pandemic in Vietnam.</string>
+    <string name="vncovid">VN Covid</string>
+    <string name="app_info">About</string>
+    <string name="version_and_copyright">Version 1.0.0\n©2021 DUY NGUYEN</string>
+    <string name="viet_nam_covid_19_status">Viet Nam Covid-19 status</string>
+    <string name="today_s_status">Today\'s status</string>
+    <string name="covid_19_in_viet_nam_statistics">Covid-19 in Vietnam: statistics</string>
+    <string name="total_case_deaths_in_63_cities_and_provinces">Total cases, deaths in 63 cities and provinces</string>
+    <string name="update">Update</string>
+    <string name="total">Total</string>
+    <string name="recovered">Recovered</string>
+    <string name="treating">Treating</string>
+    <string name="deaths">Deaths</string>
+    <string name="location">Location</string>
+    <string name="today">Today</string>
+    <string name="no_internet_connection">No internet connection!</string>
+    <string name="something_went_wrong_please_try_again">Something went wrong, please try again!</string>
+
+
+
+
+</resources>

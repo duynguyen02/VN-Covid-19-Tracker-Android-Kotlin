@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">VN Covid-19 Tracker</string>
+    <string name="information_about_the_covid_19_pandemic_in_viet_nam">Thông số dịch bệnh Covid-19 tại Việt Nam</string>
+    <string name="vncovid">VN Covid</string>
+    <string name="app_info">Thông tin ứng dụng</string>
+    <string name="version_and_copyright">Phiên bản 1.0.0\n©2021 DUY NGUYEN</string>
+    <string name="viet_nam_covid_19_status">Tình hình Covid tại Việt Nam</string>
+
+    <string name="today_s_status">Diễn biến dịch hôm nay</string>
+    <string name="covid_19_in_viet_nam_statistics">Số liệu Covid-19 tại Việt Nam</string>
+    <string name="total_case_deaths_in_63_cities_and_provinces">Nhiễm, tử vong tại 63 tỉnh thành</string>
+    <string name="update">Cập nhật</string>
+    <string name="total">Tổng</string>
+    <string name="recovered">Hồi phục</string>
+    <string name="treating">Điều trị</string>
+    <string name="deaths">Tử vong</string>
+    <string name="location">Khu vực</string>
+    <string name="today">Hôm nay</string>
+    <string name="no_internet_connection">Không có kết nối Internet</string>
+    <string name="something_went_wrong_please_try_again">Có lỗi xảy ra, vui lòng thử lại!</string>
+</resources>
